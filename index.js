@@ -78,7 +78,7 @@ callBtn.onclick = function () {
 
   historyList.appendChild(section);
 
-  // Hide "No calls yet" text
+
 
 };
 
