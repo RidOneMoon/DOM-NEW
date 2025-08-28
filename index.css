@@ -1,0 +1,21 @@
+       .hero-gradient {
+      background: linear-gradient(90deg, 
+        #013223 0%, 
+        #006747 50%, 
+        #013928 94%, 
+        #013223 100%
+      );
+      }
+
+    .card-icon {
+      width: 42px; height: 42px;
+    }
+    .call-icon {
+      width: 18px; height: 18px; display:inline-block;
+      margin-right: 8px;
+      vertical-align: middle;
+    }
+    .action-btn:focus { outline: 2px solid rgba(6,95,70,0.2); outline-offset: 2px; }
+
+
+
